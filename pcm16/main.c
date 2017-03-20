@@ -60,7 +60,7 @@ int simplest_pcm16le_split(char *url){
 //将左声道的音量降低一半
 
 /**
- 将左声道的音量降低一半
+ 将左声道的音量降低为原来的一半
 
  @param url pcm文件在本地路径
  @return 0
